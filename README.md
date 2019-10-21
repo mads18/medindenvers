@@ -8,7 +8,6 @@ Medin Denvers
     <p>BUTTON</p>
   </div> 
 </div>
-</body>
 p {
   animation-duration: 3s;
   animation-name: slidein;
@@ -31,3 +30,4 @@ e.addEventListener("animationend", listener, false);
 e.addEventListener("animationiteration", listener, false);
 
 e.className = "slidein";
+</body>
